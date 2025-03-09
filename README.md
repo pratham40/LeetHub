@@ -53,6 +53,7 @@
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/pratham40/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +63,7 @@
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/pratham40/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
