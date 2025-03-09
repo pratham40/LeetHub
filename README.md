@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +57,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -75,6 +79,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
