@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pratham40/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/pratham40/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
