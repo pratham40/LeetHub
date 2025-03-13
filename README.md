@@ -47,6 +47,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pratham40/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -63,6 +64,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pratham40/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
@@ -73,6 +75,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pratham40/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -104,6 +107,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pratham40/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pratham40/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/pratham40/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
