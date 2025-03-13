@@ -101,4 +101,12 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pratham40/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pratham40/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
