@@ -37,6 +37,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/pratham40/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -139,4 +141,8 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/pratham40/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
