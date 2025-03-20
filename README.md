@@ -37,6 +37,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3429-special-array-i](https://github.com/pratham40/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
