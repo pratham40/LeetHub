@@ -22,6 +22,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratham40/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratham40/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/pratham40/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/pratham40/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/pratham40/LeetCode/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/pratham40/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/pratham40/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
