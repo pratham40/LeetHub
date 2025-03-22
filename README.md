@@ -39,6 +39,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratham40/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/pratham40/LeetCode/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/pratham40/LeetCode/tree/master/3463-alternating-groups-i) |
