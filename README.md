@@ -38,6 +38,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratham40/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/pratham40/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Prefix Sum
 |  |
 | ------- |
