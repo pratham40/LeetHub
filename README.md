@@ -38,6 +38,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratham40/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
@@ -80,6 +81,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/pratham40/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
