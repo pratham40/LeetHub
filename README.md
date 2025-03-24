@@ -35,6 +35,7 @@
 | [1137-height-checker](https://github.com/pratham40/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratham40/LeetCode/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/pratham40/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -61,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/pratham40/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
