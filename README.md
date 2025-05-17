@@ -14,6 +14,7 @@
 | ------- |
 | [1044-find-common-characters](https://github.com/pratham40/LeetCode/tree/master/1044-find-common-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratham40/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1666-make-the-string-great](https://github.com/pratham40/LeetCode/tree/master/1666-make-the-string-great) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratham40/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratham40/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/pratham40/LeetCode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
