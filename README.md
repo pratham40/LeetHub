@@ -16,6 +16,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratham40/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/pratham40/LeetCode/tree/master/1666-make-the-string-great) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratham40/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
@@ -160,6 +161,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratham40/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/pratham40/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Prefix Sum
@@ -197,4 +199,5 @@
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/pratham40/LeetCode/tree/master/1666-make-the-string-great) |
+| [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
