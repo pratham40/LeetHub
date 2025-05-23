@@ -40,6 +40,7 @@
 | [1137-height-checker](https://github.com/pratham40/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pratham40/LeetCode/tree/master/1217-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1552-build-an-array-with-stack-operations](https://github.com/pratham40/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/pratham40/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -140,6 +141,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/pratham40/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/pratham40/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -200,6 +202,7 @@
 ## Stack
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/pratham40/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/pratham40/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
