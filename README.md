@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/pratham40/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2998-count-symmetric-integers](https://github.com/pratham40/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham40/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/pratham40/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
