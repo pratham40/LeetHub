@@ -34,6 +34,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -89,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
@@ -167,6 +169,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/pratham40/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratham40/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
