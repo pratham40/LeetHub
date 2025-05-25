@@ -35,6 +35,7 @@
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/pratham40/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pratham40/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
