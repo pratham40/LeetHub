@@ -60,6 +60,7 @@
 | [3429-special-array-i](https://github.com/pratham40/LeetCode/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/pratham40/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/pratham40/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/pratham40/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/pratham40/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/pratham40/LeetCode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/pratham40/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
