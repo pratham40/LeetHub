@@ -35,6 +35,7 @@
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -187,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/pratham40/LeetCode/tree/master/0890-lemonade-change) |
 | [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
