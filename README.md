@@ -39,6 +39,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0645-set-mismatch](https://github.com/pratham40/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/pratham40/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
@@ -69,6 +70,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham40/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0645-set-mismatch](https://github.com/pratham40/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratham40/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1044-find-common-characters](https://github.com/pratham40/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/pratham40/LeetCode/tree/master/1217-relative-sort-array) |
@@ -96,6 +98,7 @@
 | [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratham40/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0645-set-mismatch](https://github.com/pratham40/LeetCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/pratham40/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pratham40/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/pratham40/LeetCode/tree/master/1137-height-checker) |
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham40/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/pratham40/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
