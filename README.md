@@ -23,6 +23,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratham40/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/pratham40/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/pratham40/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/pratham40/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0890-lemonade-change](https://github.com/pratham40/LeetCode/tree/master/0890-lemonade-change) |
 | [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/pratham40/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
 | ------- |
