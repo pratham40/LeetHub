@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham40/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham40/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0165-compare-version-numbers](https://github.com/pratham40/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1044-find-common-characters](https://github.com/pratham40/LeetCode/tree/master/1044-find-common-characters) |
@@ -182,6 +183,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham40/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/pratham40/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -237,6 +239,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham40/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
