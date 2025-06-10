@@ -24,6 +24,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratham40/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/pratham40/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pratham40/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1217-relative-sort-array](https://github.com/pratham40/LeetCode/tree/master/1217-relative-sort-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratham40/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pratham40/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [1217-relative-sort-array](https://github.com/pratham40/LeetCode/tree/master/1217-relative-sort-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pratham40/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pratham40/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
 | ------- |
