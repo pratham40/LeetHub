@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pratham40/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/pratham40/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham40/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -57,6 +58,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/pratham40/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/pratham40/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/pratham40/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/pratham40/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/pratham40/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -183,6 +186,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pratham40/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pratham40/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pratham40/LeetCode/tree/master/0547-number-of-provinces) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
