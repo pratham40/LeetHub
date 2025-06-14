@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pratham40/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/pratham40/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
