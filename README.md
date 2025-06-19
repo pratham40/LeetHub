@@ -63,6 +63,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/pratham40/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pratham40/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratham40/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/pratham40/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -123,6 +124,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/pratham40/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/pratham40/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pratham40/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/pratham40/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/pratham40/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -222,6 +224,7 @@
 | [0134-gas-station](https://github.com/pratham40/LeetCode/tree/master/0134-gas-station) |
 | [0890-lemonade-change](https://github.com/pratham40/LeetCode/tree/master/0890-lemonade-change) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pratham40/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pratham40/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/pratham40/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/pratham40/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/pratham40/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
