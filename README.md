@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pratham40/LeetCode/tree/master/0062-unique-paths) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/pratham40/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pratham40/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pratham40/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratham40/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/pratham40/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pratham40/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -277,6 +279,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pratham40/LeetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pratham40/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Bit Manipulation
 |  |
