@@ -45,6 +45,7 @@
 | [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/pratham40/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pratham40/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pratham40/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pratham40/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/pratham40/LeetCode/tree/master/0134-gas-station) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham40/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/pratham40/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/pratham40/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham40/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0645-set-mismatch](https://github.com/pratham40/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratham40/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -101,6 +103,7 @@
 | [0048-rotate-image](https://github.com/pratham40/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/pratham40/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pratham40/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pratham40/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratham40/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/pratham40/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/pratham40/LeetCode/tree/master/1677-matrix-diagonal-sum) |
